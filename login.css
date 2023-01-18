@@ -1,0 +1,6 @@
+.gradient-custom {
+    background-image:linear-gradient(rgba(74, 205, 98, 0.789),rgb(222, 10, 151)), url("musiclibraryimg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+

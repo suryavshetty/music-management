@@ -1,0 +1,41 @@
+
+body{
+    background-image:linear-gradient(rgb(0,0,0,0.5),rgb(0,0,0,0.5)), url("musiclibraryimg.jpg");
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: open sans;
+}
+
+.head .col{
+    background-color: #88dbecb9;
+}
+
+
+#allsongs, #allartists, #allalbums{
+    font-size: 200%;
+    text-decoration: none;
+    color: black;
+}
+
+#nav1:hover,#nav2:hover,#nav3:hover{
+    background-color: #0eb1d1;
+} 
+
+.table1{
+    width: 100%;
+    background-color: rgb(218, 156, 169);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 120%;
+}
+
+.table1 th,td{
+    padding: 5px;
+    text-align: center;
+    border: solid black;
+}
+
+ 
+

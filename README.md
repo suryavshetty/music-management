@@ -1,2 +1,0 @@
-# music-management
-dbms project
